@@ -118,8 +118,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Excell
-        level: 98%
+      - name: Excel
+        level: 80%
 
       - name: Data Analysis
         level: 85%
@@ -128,7 +128,7 @@ skills:
         level: 80%
 
       - name: Agile methodologies
-        level: 70%
+        level: 50%
 
       - name: Python
         level: 35%
